@@ -29,6 +29,11 @@
 ### 📕 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker 安装 Gitea + Drone 开源代码仓库及 CI/CD 教程](https://www.ioiox.com/archives/148.html)
+- [『 数字品质生活 』Apple TV &amp;amp; HomePod mini](https://www.ioiox.com/archives/147.html)
+- [数字品质生活系列](https://www.ioiox.com/archives/146.html)
+- [我为什么将个人数据从私有云迁移至 iCloud ?](https://www.ioiox.com/archives/145.html)
+- [MacBook Pro 2021 14寸 续航及充电测试总结](https://www.ioiox.com/archives/144.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [更多文章...](https://www.ioiox.com)
