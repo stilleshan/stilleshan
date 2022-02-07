@@ -29,11 +29,11 @@
 ### 📕 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [部署 MinIO 通用 S3 协议对象存储服务当网盘和图床使用](https://www.ioiox.com/archives/151.html)
 - [Bark 推送服务的部署和使用小技巧](https://www.ioiox.com/archives/150.html)
 - [分享三种常用的 drone 工作流 CI 配置](https://www.ioiox.com/archives/149.html)
 - [关于 ghproxy.com 封禁相关仓库的说明](https://www.ioiox.com/archives/notice-2022-01-19.html)
 - [Docker 安装 Gitea + Drone 开源代码仓库及 CI/CD 教程](https://www.ioiox.com/archives/148.html)
-- [『 数字品质生活 』Apple TV &amp;amp; HomePod mini](https://www.ioiox.com/archives/147.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [更多文章...](https://www.ioiox.com)
