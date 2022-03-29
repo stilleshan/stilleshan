@@ -29,11 +29,11 @@
 ### 📕 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [记一次 ROS EXSi OpenWrt 家庭网络简单改造](https://www.ioiox.com/archives/153.html)
 - [drone ci 工作流语法变量高级使用教程](https://www.ioiox.com/archives/152.html)
 - [部署 MinIO 通用 S3 协议对象存储服务当网盘和图床使用](https://www.ioiox.com/archives/151.html)
 - [Bark 推送服务的部署和使用小技巧](https://www.ioiox.com/archives/150.html)
 - [分享三种常用的 drone 工作流 CI 配置](https://www.ioiox.com/archives/149.html)
-- [关于 ghproxy.com 封禁相关仓库的说明](https://www.ioiox.com/archives/notice-2022-01-19.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [更多文章...](https://www.ioiox.com)
