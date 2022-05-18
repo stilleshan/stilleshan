@@ -9,12 +9,13 @@
 我几乎都是在网上研究自学，并且对 Linux / Shell / Docker / DevOps 以及更多能提升我们工作效率的自动化工作流技术感兴趣。
 
 ## 我维护的一些免费服务 
-- [GHPROXY](https://ghproxy.com) - GHPROXY 是一个代理 clone 和下载 GitHub 仓库、文件、releases 的网站。
-- [FREEFRP](https://freefrp.net) - 免费 FRP 内网穿透服务。
-- [RSSFOREVER](https://rssforever.com) - rssforever 提供免费的 RSS 和 RSSHub 服务。
-- [SNAPDROP](https://drop.ioiox.com) - 内网全平台文件传输服务。
-- [SEND](https://send.ioiox.com) - 临时文件分享网站。
-- [SSL](https://ssl.ioiox.com) - 在线申请 Let's Encrypt 和 ZeroSSL 证书网站。
+- [GitHub Proxy](https://ghproxy.com) - GitHub Proxy 是一个代理 clone 和下载 GitHub 仓库、文件、releases 的网站。
+- [Docker Proxy](https://dockerproxy.com) - Docker Proxy 是一个多平台容器镜像代理服务,支持 Docker Hub, GitHub, Google, k8s 等镜像仓库.
+- [Free FRP](https://freefrp.net) - 免费 FRP 内网穿透服务。
+- [RSS Forever](https://rssforever.com) - rssforever 提供免费的 RSS 和 RSSHub 服务。
+- [Snadrop Services](https://drop.ioiox.com) - 内网全平台文件传输服务。
+- [Send Files](https://send.ioiox.com) - 临时文件分享网站。
+- [Domain Certificate](https://ssl.ioiox.com) - 在线申请 Let's Encrypt 和 ZeroSSL 证书网站。
 
 ### 联系方式:
 
