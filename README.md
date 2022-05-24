@@ -30,11 +30,11 @@
 ### 📕 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker 镜像代理加速网站上线](https://www.ioiox.com/archives/156.html)
 - [分享一个漂亮的云盘程序 vue-file-manager](https://www.ioiox.com/archives/155.html)
 - [PostgreSql 14 主从负载均衡部署记录](https://www.ioiox.com/archives/154.html)
 - [记一次 ROS EXSi OpenWrt 家庭网络简单改造](https://www.ioiox.com/archives/153.html)
 - [drone ci 工作流语法变量高级使用教程](https://www.ioiox.com/archives/152.html)
-- [部署 MinIO 通用 S3 协议对象存储服务当网盘和图床使用](https://www.ioiox.com/archives/151.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [更多文章...](https://www.ioiox.com)
