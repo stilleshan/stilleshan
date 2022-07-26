@@ -30,11 +30,11 @@
 ### 📕 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [甲骨文云 Oracle Cloud 能创建几台免费服务器?](https://www.ioiox.com/archives/160.html)
 - [docker 部署 dujiaoka 独角数卡自动售货系统 支持 X86 和 ARM 架构](https://www.ioiox.com/archives/159.html)
 - [开源基于 subconverter 订阅转换的前端 web 程序](https://www.ioiox.com/archives/158.html)
 - [支持 typecho 1.2 的评论邮件通知插件 LoveKKCommentModify](https://www.ioiox.com/archives/157.html)
 - [Docker 镜像代理加速网站上线](https://www.ioiox.com/archives/156.html)
-- [分享一个漂亮的云盘程序 vue-file-manager](https://www.ioiox.com/archives/155.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [更多文章...](https://www.ioiox.com)
