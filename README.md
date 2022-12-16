@@ -30,11 +30,11 @@
 ### 📕 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
-- [分享个监控 Apple 直营店 iPhone 14 Pro 系列库存的网页](https://www.ioiox.com/archives/164.html)
 - [CentOS 7 安装 WireGuard 详细教程](https://www.ioiox.com/archives/163.html)
 - [甲骨文云 Oracle Cloud 引导卷扩展和块存储卷挂载](https://www.ioiox.com/archives/162.html)
 - [甲骨文云 Oracle Cloud 解决 ARM 服务器安装军哥 LNMP 环境的几个问题](https://www.ioiox.com/archives/161.html)
 - [甲骨文云 Oracle Cloud 能创建几台免费服务器?](https://www.ioiox.com/archives/160.html)
+- [docker 部署 dujiaoka 独角数卡自动售货系统 支持 X86 和 ARM 架构](https://www.ioiox.com/archives/159.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [更多文章...](https://www.ioiox.com)
