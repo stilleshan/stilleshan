@@ -21,11 +21,11 @@
 ### 📕 最新博客文章
 
 <!-- BLOG-POST-LIST:START -->
+- [第二批新西兰 Skinny 卡到货出售](https://www.ioiox.com/archives/sellskinny2.html)
 - [整理 Ultra Mobile PayGo 注册使用过程中的一些常见问题和技巧](https://www.ioiox.com/archives/169.html)
 - [注册使用 Depay 虚拟信用卡开通 ChatGPT Plus 教程](https://www.ioiox.com/archives/168.html)
 - [docker 部署 Epusdt - 独角数卡 dujiaoka 的 usdt 支付插件](https://www.ioiox.com/archives/167.html)
 - [docker 部署 nali 开源 IP 地理信息归属查询软件](https://www.ioiox.com/archives/166.html)
-- [甲骨文云 Oracle Cloud 服务器防回收保活 docker 命令](https://www.ioiox.com/archives/165.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [更多文章...](https://www.ioiox.com)
