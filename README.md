@@ -14,7 +14,6 @@
 - [Free FRP](https://freefrp.net) - 免费 FRP 内网穿透服务。
 - [RSS Forever](https://rssforever.com) - 免费的 RSS 和 RSSHub 服务。
 - [Snapdrop Services](https://drop.ioiox.com) - 全平台内网文件传输服务。
-- [Domain Certificate](https://ssl.ioiox.com) - 在线申请 Let's Encrypt 和 ZeroSSL 证书网站。
 
 ---
 
